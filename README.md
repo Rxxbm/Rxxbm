@@ -9,6 +9,5 @@
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
 <div> 
-  ![Snake animation](https://github.com/Rxxbm/Rxxbm/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>

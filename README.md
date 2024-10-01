@@ -2,6 +2,7 @@
 <h3 align="center">A passionate backend developer from Brasil</h3>
 
 - 🌱 I’m currently learning **CI/CD, Kubernetes, Kong, Docker, DDD, TDD, Clean Architecture**
+- I’m currently reading **Domain Driven Design by Alexander Khononov and Distributed Systems with NodeJs by Thomas Hunter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
